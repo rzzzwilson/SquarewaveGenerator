@@ -63,4 +63,4 @@ improved, such as:
 The board is sized to fit into the 25x25x50mm case *diagonally* which will allow
 much shorter connections for power and signal.  Here's the PCB:
 
-.. image:: Version 3 PCB.png
+.. image:: Version3PCB.png
