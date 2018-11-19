@@ -43,9 +43,9 @@ and the board installed in a small 25x25x50mm case:
 
 .. image:: IMG_5427.JPG
 
-With the generator working into a 50 ohm load it draws about 30mA.  Here's a
-close look at the leading edge of the 3KHz square wave.  Risetime is even better
-than the first version at 1.7nS:
+With the generator working into a 50 ohm load it draws about 30mA at 5v.  Here's
+a close look at the leading edge of the 3KHz square wave.  Risetime is even
+better than the first version at 1.7nS:
 
 .. image:: DS1Z_QuickPrint5.png
 
