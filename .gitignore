@@ -3,6 +3,7 @@ gerber
 rescue-backup
 sym-lib-table
 fp-lib-table
+SquareGen.kicad_pcb-bak
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
